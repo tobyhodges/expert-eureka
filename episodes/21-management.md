@@ -37,6 +37,13 @@ In this episode, we will discuss examples, strategies, and resources for handlin
 also take some time to discuss planning logistics, and (time permitting) everyone will have an opportunity to try out
 our instructions for setting up a workshop website.
 
+::::::::::::::: instructor
+
+## Clue 6
+Look under your chair.
+
+::::::::::::::::::::::::::
+
 ## The Instructional Team
 
 A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:

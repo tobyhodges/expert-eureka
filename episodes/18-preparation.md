@@ -21,6 +21,7 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 In this training we have discussed many cognitive principles and teaching practices that guide the design and
 implementation of Carpentries Workshops.
 We hope you are feeling excited and optimistic about putting
