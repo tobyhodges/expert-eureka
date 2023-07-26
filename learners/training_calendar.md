@@ -8,7 +8,7 @@ This training is designed for people who want to become certified Carpentries in
 
 For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
-In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
+In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout).
 
 ### How to Register for an Instructor Training
 
@@ -46,34 +46,38 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [February 15-16, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-15-16-2023-tickets-476729620127)
+#### [August 9-10, 2023](https://www.eventbrite.com/e/online-instructor-training-august-9-10-2023-tickets-51973278475)
 
-**Two 8-hour days:** 9 am to 5 pm N. America Mountain Time / 11 am to 7 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230215T09&p1=75&ah=8)
-
-<hr>
-
-#### [February 21-24, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-21-24-2023-tickets-476730954117)
-
-**Four 4-hour days:** 1 pm to 5 pm N. America Eastern Time / 10 am to 2 pm N. America Pacific Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230221T13&p1=77&ah=4)
+**Two 8-hour days:**  9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230809T09&p1=137&ah=8)
 
 <hr>
 
-#### [March 6-9, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-6-9-2023-tickets-476732177777)
+#### [August 15-18, 2023](https://www.eventbrite.com/e/online-instructor-training-august-15-18-2023-tickets-649135079497)
 
-**Four 4-hour days:** 1 pm to 5 pm Central European Time / 7 am to 11 am N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230306T13&p1=195&ah=4)
-
-<hr>
-
-#### [March 14-15, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-14-15-2023-tickets-476736390377)
-
-**Two 8-hour days:** 9 am to 5 pm UTC / 2:30 pm to 10:30 pm India Standard Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230314T09&p1=136&ah=8)
+**Four 4-hour days:**  9 am to 1 pm N. America Eastern Time / 3 pm to 7 pm Central European Summer Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230815T09&p1=179&ah=4)
 
 <hr>
 
-#### [March 20-23, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-20-23-2023-tickets-476742779487)
+#### [August 22-25, 2023](https://www.eventbrite.com/e/online-instructor-training-22-25-august-2023-tickets-661118482177)
 
-**Four 4-hour days:** 1 pm to 5 pm N. America Mountain Time / 8 am to 12 noon **FOLLOWING DAY** New Zealand Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230320T13&p1=75&ah=4)
+**Four 4-hour days:** 9 am to 1 pm Australian Western Standard Time / 6:00 pm to 10:00 pm **previous day** N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T09&p1=196)
 
 <hr>
 
+#### [August 23-24, 2023](https://www.eventbrite.com/e/online-instructor-training-august-23-24-2023-tickets-649138620087)
 
+**Two 8-hour days:** 9 am to 5 pm Central European Standard Time / 12:30 pm to 8:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230823T09&p1=187&ah=8)
+
+<hr>
+
+#### [September 19-22, 2023](https://www.eventbrite.com/e/online-instructor-training-19-22-september-2023-tickets-669387976457)
+
+**Four 4-hour days:**  9 am to 1 pm British Summer Time / 6 pm to 10 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230919T09&p1=1358&ah=4)
+
+<hr>
+
+#### [September 25-28, 2023](https://www.eventbrite.com/e/online-instructor-training-september-25-28-2023-tickets-649140816657)
+
+**Four 4-hour days:**  9 am to 1 pm N. America Eastern Time / 3 pm to 7 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230925T09&p1=77&ah=4)
+
+<hr>
